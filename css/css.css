@@ -10,11 +10,12 @@ body {
 .parrafo {
     align-content: center;
     width: 1000px;
-    height: 800px;
+    height: 1000px;
     border-radius: 70px;
     display: flex;
     margin: auto;
     border: solid;
+    margin-top:20px;;
 }
 
 .parrafo p {
